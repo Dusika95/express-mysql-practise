@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "NodeNext",
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "NodeNext",
+		"noImplicitAny": true,
+		"esModuleInterop": true,
+		"target": "ES2016",
+		"outDir": "../dist"
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules/**"]
+}
